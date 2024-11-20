@@ -1,0 +1,47 @@
+Your privacy is important to us. This Privacy Policy explains how the AiFy Chrome Extension collects, uses, and protects your information when you use our services. By using the AiFy extension, you agree to the practices described in this policy.
+
+1. Information We Collect
+Authentication and Authorization Data
+
+AiFy uses encrypted cookies stored on https://auth.textaify.com after user authentication and authorization. These cookies contain information essential for the extension's functionality and ensuring secure interactions.
+Interaction Data
+
+The extension collects input data provided by users for generating email content. This input is processed securely through the AiFy API and the OpenAI API to provide requested services.
+Permissions
+
+Host permissions for https://mail.google.com/mail/* are required to:
+Inject a content script to add a custom button in the Gmail compose bar.
+Enable interaction with the extension’s email generation functionality.
+Host permissions for https://auth.textaify.com are required to access encrypted cookies that authenticate user requests to the Firebase function interacting with the OpenAI API.
+2. How We Use Your Information
+Email Generation:
+Your provided input and authentication cookies are securely transmitted to the Firebase function for generating emails via the OpenAI API.
+
+Enhancing Productivity:
+The data collected is used exclusively to deliver and improve the email generation service to enhance your productivity.
+
+3. Data Sharing and Storage
+Cookies:
+Encrypted cookies are stored securely on https://auth.textaify.com. These cookies are accessible only by the AiFy extension for authenticated interactions.
+
+No Unauthorized Sharing:
+AiFy does not sell, rent, or share your data with third parties beyond what is necessary to provide the email generation service.
+
+Data Retention:
+Input data and cookies are retained only as long as needed for service delivery and compliance with applicable legal requirements.
+
+4. Security Measures
+We take reasonable measures to protect your information from unauthorized access, use, or disclosure, including:
+
+Encryption of cookies.
+Secure communication protocols for data transmission.
+Restricted access to sensitive data.
+5. Your Choices
+Cookie Management:
+You can manage or delete cookies through your browser settings. However, deleting cookies may limit the extension’s functionality.
+
+Permissions:
+You can disable or remove the AiFy extension at any time through Chrome’s extension management settings.
+
+6. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected here, with the updated date at the top. Continued use of the AiFy extension signifies your acceptance of the updated policy.
